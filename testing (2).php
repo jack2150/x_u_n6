@@ -1,0 +1,6 @@
+<?
+include "includes/inc.php";
+
+
+
+?>

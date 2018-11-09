@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /crontabs/
+Disallow: /includes/
+Disallow: /language/
+Disallow: /phpmyadmin/
+Disallow: /skin/
